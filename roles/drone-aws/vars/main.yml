@@ -1,0 +1,11 @@
+#Droneio instance variables
+security_group_name: {{ Your drone security group name}}
+security_group_description: {{ Your security group description }}
+drone_region: {{ Your region }}
+drone_instance: {{ Your instance type }}
+drone_key: {{ Your drone key }}
+drone_image: {{ Your image }}
+drone_count: 1
+drone_subnet: {{ Your subnet }}
+drone_group: {{ Your drone group }}
+drone_tag: {{ Your drone tag }}
